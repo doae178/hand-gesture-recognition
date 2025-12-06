@@ -1,0 +1,24 @@
+# Ignore dataset
+dataset/
+data/
+images/
+
+# Ignore large model files
+*.h5
+*.hdf5
+*.keras
+
+# Ignore videos
+*.mp4
+*.avi
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS Files
+.DS_Store
+Thumbs.db
