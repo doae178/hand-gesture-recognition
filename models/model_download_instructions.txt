@@ -1,1 +1,6 @@
+Place your model file here:
+
+models/hand_gesture_mobilenet.h5
+
+The model is not included because GitHub does not allow files over 100 MB.
 
